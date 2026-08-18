@@ -1,14 +1,19 @@
-apt update
-apt upgrade
-pkg install python
-pkg install python2
-pkg install git
-git clone https://github.com/IncredibleHacker/insta-hack
-ls
-cd insta-hack
-pip3 install -r requirements.txt
-chmod +x *
-bash setup.sh
-bash insta-hack.sh
+# Hi, I'm Annu Narayana Raviteja 👋
 
+M.Tech Integrated CSE student at Vellore Institute of Technology – AP.
 
+### 💻 Interests
+- Java & Backend Development
+- SQL & Database Systems
+- AI/ML Applications
+- REST APIs
+- Software Development
+
+### 🚀 Featured Projects
+- AI-Based Punctuation Restoration System
+- Online Judge – Spring Boot, Java & MySQL
+- Hospital Management System
+- Heart Disease Prediction
+- Sign Language Detection
+
+Currently learning AI applications, backend development, and modern software engineering practices.
